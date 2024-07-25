@@ -9,7 +9,7 @@ theme_version: 1.0.5
 
 # Site settings
 title:              Ahmed's Thoughts
-logo:               # Logo image URL
+logo:               # Logo image URL https://ahmedsharifkhan.github.io/assets/images/profileofnoor.png
 description:        Thoughts, Stories and Ideas
 baseurl:            /nubia # The subpath of your site, e.g. /blog
 url:                https://ahmedsharifkhan.github.io # The base hostname & protocol for your site
