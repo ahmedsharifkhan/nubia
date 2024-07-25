@@ -8,14 +8,14 @@
 theme_version: 1.0.5
 
 # Site settings
-title:              Nubia
+title:              Ahmed's Thoughts
 logo:               # Logo image URL
 description:        Thoughts, Stories and Ideas
-baseurl:            '' # The subpath of your site, e.g. /blog
-url:                'https://nubia-jekyll.netlify.com/' # The base hostname & protocol for your site
-twitter:            https://twitter.com/aspirethemes
-facebook:           https://www.facebook.com/aspirethemes
-instagram:          https://www.instagram.com/aspirethemes
+baseurl:            /nubia # The subpath of your site, e.g. /blog
+url:                https://ahmedsharifkhan.github.io # The base hostname & protocol for your site
+twitter:            https://twitter.com/ahmedsharifkhannoor
+facebook:           https://www.facebook.com/ahmedsharifkhannoor
+instagram:          https://www.instagram.com/ahmedsharifkhannoor
 
 markdown:  kramdown
 permalink: pretty
@@ -50,10 +50,10 @@ defaults:
 # Authors
 authors:
   ahmad:
-    name:     Ahmad Ajmi
+    name:     Ahmed Sharif Khan Noor
     bio:      Author & developer of Aspire Themes. Minimalist. I love creating clean and minimal websites.Technical writer at SitePoint.
-    gravatar: https://s.gravatar.com/avatar/f83141edd9e6339e678648596a403fd5?s=150
+    gravatar: https://lh3.googleusercontent.com/pw/ADCreHd8bz4D53_B3dnZqgyI6lKQ8guUguy3xrJpukvzeMa3s2Ea1-4FSCoAB4TGGJ2PVh2VWacgpBdyAP6Lm4xdU1Stdff6PvXlO5Uuko9dsEGh5mkNBPhAJmeAhpWyOJlzRjv5Ahag3bBo7RBfa4o1UfD6=w480-h480-s-no-gm?authuser=0
     email:    info@aspirethemes.com
-    website:  http://aspirethemes.com
-    github:   https://github.com/aspirethemes
-    twitter:  https://twitter.com/aspirethemes
+    website:  https://ahmedsharifkhan.github.io/
+    github:   https://github.com/ahmedsharifkhannoor
+    twitter:  https://twitter.com/ahmedsharifkhannoor

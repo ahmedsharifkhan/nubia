@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nubia</title>
+    <title>Ahmed&apos;s Thoughts</title>
     <description>Thoughts, Stories and Ideas</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jul 2024 00:43:03 +0600</pubDate>
-    <lastBuildDate>Fri, 26 Jul 2024 00:43:03 +0600</lastBuildDate>
+    <link>http://localhost:4000/nubia/</link>
+    <atom:link href="http://localhost:4000/nubia/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 26 Jul 2024 00:56:18 +0600</pubDate>
+    <lastBuildDate>Fri, 26 Jul 2024 00:56:18 +0600</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
 
     
@@ -26,8 +26,8 @@
 
 </description>
         <pubDate>31 May 2024</pubDate>
-        <link>http://localhost:4000/digital%20marketing/marketing/seo/2024/05/31/Facebook-Custom-events/</link>
-        <guid isPermaLink="true">http://localhost:4000/digital%20marketing/marketing/seo/2024/05/31/Facebook-Custom-events/</guid>
+        <link>http://localhost:4000/nubia/digital%20marketing/marketing/seo/2024/05/31/Facebook-Custom-events/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/digital%20marketing/marketing/seo/2024/05/31/Facebook-Custom-events/</guid>
       </item>
     
       <item>
@@ -276,8 +276,8 @@ Click  &lt;img src=&quot;https://lh3.googleusercontent.com/PzFeiQQaPASuntRuvWiXo
 &lt;/ul&gt;
 </description>
         <pubDate>26 Apr 2024</pubDate>
-        <link>http://localhost:4000/digital%20marketing/marketing/seo/2024/04/26/ga4-enhanced-measurement-events/</link>
-        <guid isPermaLink="true">http://localhost:4000/digital%20marketing/marketing/seo/2024/04/26/ga4-enhanced-measurement-events/</guid>
+        <link>http://localhost:4000/nubia/digital%20marketing/marketing/seo/2024/04/26/ga4-enhanced-measurement-events/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/digital%20marketing/marketing/seo/2024/04/26/ga4-enhanced-measurement-events/</guid>
       </item>
     
       <item>
@@ -428,8 +428,8 @@ Click  &lt;img src=&quot;https://lh3.googleusercontent.com/PzFeiQQaPASuntRuvWiXo
 &lt;p&gt;&lt;img src=&quot;https://tawk.link/521727297ca1334016000005/kb/attachments/m3pU8_-g4v.png&quot; alt=&quot;&quot; width=&quot;100%&quot; height=&quot;auto&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>21 Nov 2023</pubDate>
-        <link>http://localhost:4000/tawk/tracking/website/2023/11/21/Google-Ads-Conversion-Tracking-with-Google-Tag-Manager/</link>
-        <guid isPermaLink="true">http://localhost:4000/tawk/tracking/website/2023/11/21/Google-Ads-Conversion-Tracking-with-Google-Tag-Manager/</guid>
+        <link>http://localhost:4000/nubia/tawk/tracking/website/2023/11/21/Google-Ads-Conversion-Tracking-with-Google-Tag-Manager/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/tawk/tracking/website/2023/11/21/Google-Ads-Conversion-Tracking-with-Google-Tag-Manager/</guid>
       </item>
     
       <item>
@@ -490,8 +490,8 @@ Tawk_API.onChatStarted = function(){
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>20 Nov 2023</pubDate>
-        <link>http://localhost:4000/tawk/code/website/2023/11/20/integrating-google-ads-with-tawk-to/</link>
-        <guid isPermaLink="true">http://localhost:4000/tawk/code/website/2023/11/20/integrating-google-ads-with-tawk-to/</guid>
+        <link>http://localhost:4000/nubia/tawk/code/website/2023/11/20/integrating-google-ads-with-tawk-to/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/tawk/code/website/2023/11/20/integrating-google-ads-with-tawk-to/</guid>
       </item>
     
       <item>
@@ -730,8 +730,8 @@ document.addEventListener(&apos;DOMContentLoaded&apos;, (event) =&amp;gt; {
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>18 Nov 2023</pubDate>
-        <link>http://localhost:4000/jekyll/code/website/2023/11/18/jekyll-website-code/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/code/website/2023/11/18/jekyll-website-code/</guid>
+        <link>http://localhost:4000/nubia/jekyll/code/website/2023/11/18/jekyll-website-code/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/jekyll/code/website/2023/11/18/jekyll-website-code/</guid>
       </item>
     
       <item>
@@ -3142,8 +3142,8 @@ document.addEventListener(&apos;DOMContentLoaded&apos;, (event) =&amp;gt; {
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>18 Nov 2023</pubDate>
-        <link>http://localhost:4000/jekyll/code/website/2023/11/18/isp-server/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/code/website/2023/11/18/isp-server/</guid>
+        <link>http://localhost:4000/nubia/jekyll/code/website/2023/11/18/isp-server/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/jekyll/code/website/2023/11/18/isp-server/</guid>
       </item>
     
       <item>
@@ -3319,8 +3319,8 @@ document.addEventListener(&apos;DOMContentLoaded&apos;, (event) =&amp;gt; {
 &lt;p&gt;Try this and let me know - in the comment section - if it has worked for you. Any suggestions to improve the article is appreciated&lt;/p&gt;
 </description>
         <pubDate>25 Oct 2023</pubDate>
-        <link>http://localhost:4000/digital%20marketing/marketing/seo/2023/10/25/customize-google-form/</link>
-        <guid isPermaLink="true">http://localhost:4000/digital%20marketing/marketing/seo/2023/10/25/customize-google-form/</guid>
+        <link>http://localhost:4000/nubia/digital%20marketing/marketing/seo/2023/10/25/customize-google-form/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/digital%20marketing/marketing/seo/2023/10/25/customize-google-form/</guid>
       </item>
     
       <item>
@@ -3508,8 +3508,8 @@ Tawk_API.onChatStarted = function () {
 &lt;p&gt;&lt;img src=&quot;https://tawk.link/521727297ca1334016000005/kb/attachments/vAJwMH-lz1.png&quot; alt=&quot;&quot; width=&quot;100%&quot; height=&quot;auto&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>25 Oct 2023</pubDate>
-        <link>http://localhost:4000/digital%20marketing/marketing/seo/2023/10/25/Best-Jekyll-CMS/</link>
-        <guid isPermaLink="true">http://localhost:4000/digital%20marketing/marketing/seo/2023/10/25/Best-Jekyll-CMS/</guid>
+        <link>http://localhost:4000/nubia/digital%20marketing/marketing/seo/2023/10/25/Best-Jekyll-CMS/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/digital%20marketing/marketing/seo/2023/10/25/Best-Jekyll-CMS/</guid>
       </item>
     
       <item>
@@ -4079,11 +4079,11 @@ Tawk_API.onChatStarted = function () {
 
 &lt;p&gt;https://www.semrush.com/blog/seo-blog/&lt;/p&gt;
 
-&lt;iframe src=&quot;/assets/file/TheArtofSEO.pdf&quot; width=&quot;100%&quot; height=&quot;700px&quot;&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;/nubia/assets/file/TheArtofSEO.pdf&quot; width=&quot;100%&quot; height=&quot;700px&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>20 Oct 2023</pubDate>
-        <link>http://localhost:4000/marketing/digital%20marketing/seo/2023/10/20/Khalid-farhan-seo-course-note/</link>
-        <guid isPermaLink="true">http://localhost:4000/marketing/digital%20marketing/seo/2023/10/20/Khalid-farhan-seo-course-note/</guid>
+        <link>http://localhost:4000/nubia/marketing/digital%20marketing/seo/2023/10/20/Khalid-farhan-seo-course-note/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/marketing/digital%20marketing/seo/2023/10/20/Khalid-farhan-seo-course-note/</guid>
       </item>
     
       <item>
@@ -4144,8 +4144,8 @@ If the tags you deploy in a server-side tagging environment need to know what th
 To recap, a server-container augments functionality of a web container. It allows you to meet privacy requirements more easily while improving your site performance. If your tag relies on activity that happens in the user’s browser, place it in the web container. All other tags can be run in a server container.&lt;/p&gt;
 </description>
         <pubDate>12 Oct 2023</pubDate>
-        <link>http://localhost:4000/health/travel/life%20style/2023/10/12/What-is-server-side-tagging/</link>
-        <guid isPermaLink="true">http://localhost:4000/health/travel/life%20style/2023/10/12/What-is-server-side-tagging/</guid>
+        <link>http://localhost:4000/nubia/health/travel/life%20style/2023/10/12/What-is-server-side-tagging/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/health/travel/life%20style/2023/10/12/What-is-server-side-tagging/</guid>
       </item>
     
       <item>
@@ -4244,8 +4244,8 @@ end
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>12 Oct 2023</pubDate>
-        <link>http://localhost:4000/health/travel/life%20style/2023/10/12/Plugins-Jekyll-has-built-in-support/</link>
-        <guid isPermaLink="true">http://localhost:4000/health/travel/life%20style/2023/10/12/Plugins-Jekyll-has-built-in-support/</guid>
+        <link>http://localhost:4000/nubia/health/travel/life%20style/2023/10/12/Plugins-Jekyll-has-built-in-support/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/health/travel/life%20style/2023/10/12/Plugins-Jekyll-has-built-in-support/</guid>
       </item>
     
       <item>
@@ -4272,8 +4272,8 @@ Given the capabilities of algo-trading, applying its use is fairly easy. There a
 &lt;p&gt;As it stands, the application of algo trading has created a digitally driven community where the future remains bright for Indian traders. After all, India has a robust population of software developers, where 5.8 million individuals work to provide top-notch programs. As such, traders are looking forward to even more innovations that can enhance the investment industry.&lt;/p&gt;
 </description>
         <pubDate>12 Oct 2023</pubDate>
-        <link>http://localhost:4000/health/travel/life%20style/2023/10/12/How-Algorithmic-Trading-Systems-Work/</link>
-        <guid isPermaLink="true">http://localhost:4000/health/travel/life%20style/2023/10/12/How-Algorithmic-Trading-Systems-Work/</guid>
+        <link>http://localhost:4000/nubia/health/travel/life%20style/2023/10/12/How-Algorithmic-Trading-Systems-Work/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/health/travel/life%20style/2023/10/12/How-Algorithmic-Trading-Systems-Work/</guid>
       </item>
     
       <item>
@@ -4298,8 +4298,8 @@ Given the capabilities of algo-trading, applying its use is fairly easy. There a
 
 </description>
         <pubDate>12 Oct 2023</pubDate>
-        <link>http://localhost:4000/travel/life%20style/2023/10/12/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/travel/life%20style/2023/10/12/welcome-to-jekyll/</guid>
+        <link>http://localhost:4000/nubia/travel/life%20style/2023/10/12/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/travel/life%20style/2023/10/12/welcome-to-jekyll/</guid>
       </item>
     
       <item>
@@ -4324,8 +4324,8 @@ Given the capabilities of algo-trading, applying its use is fairly easy. There a
 
 </description>
         <pubDate>12 Oct 2023</pubDate>
-        <link>http://localhost:4000/health/life%20style/2023/10/12/The-main-post/</link>
-        <guid isPermaLink="true">http://localhost:4000/health/life%20style/2023/10/12/The-main-post/</guid>
+        <link>http://localhost:4000/nubia/health/life%20style/2023/10/12/The-main-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/health/life%20style/2023/10/12/The-main-post/</guid>
       </item>
     
       <item>
@@ -4464,8 +4464,8 @@ You can copy and paste this entire Markdown code, including the formatted code b
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>12 Oct 2023</pubDate>
-        <link>http://localhost:4000/code/jekyll/github%20pages/2023/10/12/Step-by-Step-Guide/</link>
-        <guid isPermaLink="true">http://localhost:4000/code/jekyll/github%20pages/2023/10/12/Step-by-Step-Guide/</guid>
+        <link>http://localhost:4000/nubia/code/jekyll/github%20pages/2023/10/12/Step-by-Step-Guide/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/code/jekyll/github%20pages/2023/10/12/Step-by-Step-Guide/</guid>
       </item>
     
       <item>
@@ -4488,8 +4488,8 @@ jekyll-plugin topic on GitHub
 Planet Jekyll&lt;/p&gt;
 </description>
         <pubDate>12 Oct 2023</pubDate>
-        <link>http://localhost:4000/health/travel/life%20style/2023/10/12/Don-t-waste-precious-hours-on-self-praise/</link>
-        <guid isPermaLink="true">http://localhost:4000/health/travel/life%20style/2023/10/12/Don-t-waste-precious-hours-on-self-praise/</guid>
+        <link>http://localhost:4000/nubia/health/travel/life%20style/2023/10/12/Don-t-waste-precious-hours-on-self-praise/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/health/travel/life%20style/2023/10/12/Don-t-waste-precious-hours-on-self-praise/</guid>
       </item>
     
       <item>
@@ -4514,8 +4514,8 @@ Planet Jekyll&lt;/p&gt;
 
 </description>
         <pubDate>12 Oct 2023</pubDate>
-        <link>http://localhost:4000/health/life%20style/2023/10/12/welcome-to-codeninja/</link>
-        <guid isPermaLink="true">http://localhost:4000/health/life%20style/2023/10/12/welcome-to-codeninja/</guid>
+        <link>http://localhost:4000/nubia/health/life%20style/2023/10/12/welcome-to-codeninja/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/health/life%20style/2023/10/12/welcome-to-codeninja/</guid>
       </item>
     
       <item>
@@ -4540,8 +4540,8 @@ Planet Jekyll&lt;/p&gt;
 
 </description>
         <pubDate>12 Oct 2023</pubDate>
-        <link>http://localhost:4000/health/travel/life%20style/2023/10/12/The-Travel-Post/</link>
-        <guid isPermaLink="true">http://localhost:4000/health/travel/life%20style/2023/10/12/The-Travel-Post/</guid>
+        <link>http://localhost:4000/nubia/health/travel/life%20style/2023/10/12/The-Travel-Post/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/health/travel/life%20style/2023/10/12/The-Travel-Post/</guid>
       </item>
     
       <item>
@@ -4653,8 +4653,8 @@ Planet Jekyll&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>12 Oct 2023</pubDate>
-        <link>http://localhost:4000/travel/life%20style/2023/10/12/The-Secont-Post/</link>
-        <guid isPermaLink="true">http://localhost:4000/travel/life%20style/2023/10/12/The-Secont-Post/</guid>
+        <link>http://localhost:4000/nubia/travel/life%20style/2023/10/12/The-Secont-Post/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/travel/life%20style/2023/10/12/The-Secont-Post/</guid>
       </item>
     
       <item>
@@ -4689,8 +4689,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>22 Jan 2017</pubDate>
-        <link>http://localhost:4000/2017/01/22/you-got-to-cool-that-shit-off-and-thats-the-double-truth/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/01/22/you-got-to-cool-that-shit-off-and-thats-the-double-truth/</guid>
+        <link>http://localhost:4000/nubia/2017/01/22/you-got-to-cool-that-shit-off-and-thats-the-double-truth/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/2017/01/22/you-got-to-cool-that-shit-off-and-thats-the-double-truth/</guid>
       </item>
     
       <item>
@@ -4723,8 +4723,8 @@ lacinia in lorem.&lt;/li&gt;
 
 </description>
         <pubDate>25 Apr 2016</pubDate>
-        <link>http://localhost:4000/2016/04/25/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/04/25/welcome-to-jekyll/</guid>
+        <link>http://localhost:4000/nubia/2016/04/25/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/2016/04/25/welcome-to-jekyll/</guid>
       </item>
     
       <item>
@@ -4759,8 +4759,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>22 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/22/the-senate-that-our-ability-to-use-the-force-has-diminished/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/22/the-senate-that-our-ability-to-use-the-force-has-diminished/</guid>
+        <link>http://localhost:4000/nubia/2015/12/22/the-senate-that-our-ability-to-use-the-force-has-diminished/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/2015/12/22/the-senate-that-our-ability-to-use-the-force-has-diminished/</guid>
       </item>
     
       <item>
@@ -4795,8 +4795,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>22 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/22/the-reason-were-gathered-here-on-our-god-given-day/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/22/the-reason-were-gathered-here-on-our-god-given-day/</guid>
+        <link>http://localhost:4000/nubia/2015/12/22/the-reason-were-gathered-here-on-our-god-given-day/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/2015/12/22/the-reason-were-gathered-here-on-our-god-given-day/</guid>
       </item>
     
       <item>
@@ -4831,8 +4831,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>22 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/22/if-you-have-an-opportunity-to-use-your-voice-you-should-use-it-all/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/22/if-you-have-an-opportunity-to-use-your-voice-you-should-use-it-all/</guid>
+        <link>http://localhost:4000/nubia/2015/12/22/if-you-have-an-opportunity-to-use-your-voice-you-should-use-it-all/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/2015/12/22/if-you-have-an-opportunity-to-use-your-voice-you-should-use-it-all/</guid>
       </item>
     
       <item>
@@ -4867,8 +4867,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>22 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/22/i-was-not-going-to-stand-by-and-see-another-marine-die-just-to-live/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/22/i-was-not-going-to-stand-by-and-see-another-marine-die-just-to-live/</guid>
+        <link>http://localhost:4000/nubia/2015/12/22/i-was-not-going-to-stand-by-and-see-another-marine-die-just-to-live/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/2015/12/22/i-was-not-going-to-stand-by-and-see-another-marine-die-just-to-live/</guid>
       </item>
     
       <item>
@@ -4903,8 +4903,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>22 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/22/access-main-program-access-main-security/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/22/access-main-program-access-main-security/</guid>
+        <link>http://localhost:4000/nubia/2015/12/22/access-main-program-access-main-security/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/2015/12/22/access-main-program-access-main-security/</guid>
       </item>
     
       <item>
@@ -4939,8 +4939,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>21 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/21/it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</guid>
+        <link>http://localhost:4000/nubia/2015/12/21/it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/2015/12/21/it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</guid>
       </item>
     
       <item>
@@ -5018,8 +5018,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;That should be enough to get you started. Have fun - and let us know what you think :)&lt;/p&gt;
 </description>
         <pubDate>21 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/21/i-think-it-is-time-we-inform-the-senate-that-our-ability/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/i-think-it-is-time-we-inform-the-senate-that-our-ability/</guid>
+        <link>http://localhost:4000/nubia/2015/12/21/i-think-it-is-time-we-inform-the-senate-that-our-ability/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/2015/12/21/i-think-it-is-time-we-inform-the-senate-that-our-ability/</guid>
       </item>
     
       <item>
@@ -5054,8 +5054,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>21 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/21/i-know-cats-whod-take-out-whole-zipcodes-for-that-kind-of-cheese/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/i-know-cats-whod-take-out-whole-zipcodes-for-that-kind-of-cheese/</guid>
+        <link>http://localhost:4000/nubia/2015/12/21/i-know-cats-whod-take-out-whole-zipcodes-for-that-kind-of-cheese/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/2015/12/21/i-know-cats-whod-take-out-whole-zipcodes-for-that-kind-of-cheese/</guid>
       </item>
     
       <item>
@@ -5090,8 +5090,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>21 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/21/i-get-paid-all-day-every-day-which-is-almost-too-much-for-artist/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/i-get-paid-all-day-every-day-which-is-almost-too-much-for-artist/</guid>
+        <link>http://localhost:4000/nubia/2015/12/21/i-get-paid-all-day-every-day-which-is-almost-too-much-for-artist/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/2015/12/21/i-get-paid-all-day-every-day-which-is-almost-too-much-for-artist/</guid>
       </item>
     
       <item>
@@ -5120,8 +5120,8 @@ lacinia in lorem.&lt;/li&gt;
 
 </description>
         <pubDate>21 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/21/how-to-travel-around-the-world-with-less-expenses/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/how-to-travel-around-the-world-with-less-expenses/</guid>
+        <link>http://localhost:4000/nubia/2015/12/21/how-to-travel-around-the-world-with-less-expenses/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/2015/12/21/how-to-travel-around-the-world-with-less-expenses/</guid>
       </item>
     
       <item>
@@ -5150,8 +5150,8 @@ lacinia in lorem.&lt;/li&gt;
 
 </description>
         <pubDate>21 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/21/how-can-i-trust-a-man-who-wont-eat-a-good-old-fashioned-american/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/how-can-i-trust-a-man-who-wont-eat-a-good-old-fashioned-american/</guid>
+        <link>http://localhost:4000/nubia/2015/12/21/how-can-i-trust-a-man-who-wont-eat-a-good-old-fashioned-american/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/2015/12/21/how-can-i-trust-a-man-who-wont-eat-a-good-old-fashioned-american/</guid>
       </item>
     
       <item>
@@ -5186,8 +5186,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>21 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/21/going-to-stand-by-and-see-another-marine-die-just-to-live/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/going-to-stand-by-and-see-another-marine-die-just-to-live/</guid>
+        <link>http://localhost:4000/nubia/2015/12/21/going-to-stand-by-and-see-another-marine-die-just-to-live/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/2015/12/21/going-to-stand-by-and-see-another-marine-die-just-to-live/</guid>
       </item>
     
       <item>
@@ -5222,8 +5222,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>21 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/21/every-day-which-is-almost-too-much-for-sensitive/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/every-day-which-is-almost-too-much-for-sensitive/</guid>
+        <link>http://localhost:4000/nubia/2015/12/21/every-day-which-is-almost-too-much-for-sensitive/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/2015/12/21/every-day-which-is-almost-too-much-for-sensitive/</guid>
       </item>
     
       <item>
@@ -5258,8 +5258,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>21 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/21/eddie-kim-somehow-managed-to-fill-the-plane-with-poisonous-snakes/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/eddie-kim-somehow-managed-to-fill-the-plane-with-poisonous-snakes/</guid>
+        <link>http://localhost:4000/nubia/2015/12/21/eddie-kim-somehow-managed-to-fill-the-plane-with-poisonous-snakes/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/2015/12/21/eddie-kim-somehow-managed-to-fill-the-plane-with-poisonous-snakes/</guid>
       </item>
     
       <item>
@@ -5294,8 +5294,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>21 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/21/almost-too-much-for-sensitive-to-get-paid-all-day-every-day/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/almost-too-much-for-sensitive-to-get-paid-all-day-every-day/</guid>
+        <link>http://localhost:4000/nubia/2015/12/21/almost-too-much-for-sensitive-to-get-paid-all-day-every-day/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/2015/12/21/almost-too-much-for-sensitive-to-get-paid-all-day-every-day/</guid>
       </item>
     
       <item>
@@ -5330,8 +5330,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>21 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/21/access-main-program-access-main-security-access-main-program-grid/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/access-main-program-access-main-security-access-main-program-grid/</guid>
+        <link>http://localhost:4000/nubia/2015/12/21/access-main-program-access-main-security-access-main-program-grid/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/2015/12/21/access-main-program-access-main-security-access-main-program-grid/</guid>
       </item>
     
       <item>
@@ -5366,8 +5366,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>02 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/02/it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/02/it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</guid>
+        <link>http://localhost:4000/nubia/2015/12/02/it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</link>
+        <guid isPermaLink="true">http://localhost:4000/nubia/2015/12/02/it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</guid>
       </item>
     
 
@@ -5386,7 +5386,7 @@ lacinia in lorem.&lt;/li&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.&lt;/p&gt;
 </description>
-            <link>http://localhost:4000/about.html</link>
+            <link>http://localhost:4000/nubia/about.html</link>
           </item>
         
       
@@ -5634,7 +5634,7 @@ pre {
 &lt;button class=&apos;c-btn c-btn--active c-btn--small&apos;&gt;Button&lt;/button&gt;
 &lt;button class=&apos;c-btn c-btn--active c-btn--full&apos;&gt;Button&lt;/button&gt;
 {% endhighlight %}</description>
-            <link>http://localhost:4000/style-guide.html</link>
+            <link>http://localhost:4000/nubia/style-guide.html</link>
           </item>
         
       
